@@ -1,0 +1,35 @@
+body {
+    background-color: blue;
+}
+
+.img {
+    width: 500px;
+    border-radius: 200px;
+    border: rgb(168, 195, 223) 5px solid;
+
+}
+
+.text {
+    text-align: center;
+}
+
+.div {
+
+    width: 400px;
+    height: 400px;
+    margin: 0 auto;
+}
+
+.first-image {
+    background-image: url(cadeau-anniversaire.jpg);
+    background-size: cover;
+    width: 700px;
+    height: 400px;
+    margin: 0 auto;
+}
+
+.first-image:hover {
+    background-image: url(pitbull.jpg);
+    background-size: cover;
+    
+}
